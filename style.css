@@ -1,0 +1,77 @@
+body {
+    background-image: url('./assets/images/discord-background-image.png');
+    background-size: 100%;
+}
+
+main {
+    background-color: #343434;
+    color: #EEF0F3;
+    width: 60%;
+    margin: auto;
+    margin-top: 10em;
+    padding: 1em;
+    border-radius: 2%;
+    display: flex;
+}
+
+.greetings {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2em;
+    width: 30%;
+}
+
+h2 {
+    color: #EEF0F3;
+    font-size: x-large;
+}
+
+h4 {
+    color: #A6ACB3;
+    font-size: small;
+}
+
+label {
+    margin-top: 1em;
+    color: #A6ACB3
+}
+
+
+a {
+    text-decoration: none;
+    color: #1494FB;
+}
+
+form {
+    width: 60%;
+    margin: 2em;
+}
+
+button {
+    width: 100%;
+    background-color: #4548EF;
+    padding: 2%;
+    color: #FFFFFF;
+    margin: 1%;
+}
+
+img {
+    width: 75%;
+    display: flex;
+}
+
+.qrcode {
+    width: auto;
+    margin: auto;
+    justify-content: right;
+    display: flex;
+}
+
+span {
+    color: red
+}
+
+.navbar navbar-expand-lg bg-body-tertiary{
+    background-color: #1494FB;
+}
